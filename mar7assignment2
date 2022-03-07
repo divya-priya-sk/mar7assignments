@@ -1,0 +1,3 @@
+#removing first and last letters from a given string
+s=input()
+print(s[1:-1])
